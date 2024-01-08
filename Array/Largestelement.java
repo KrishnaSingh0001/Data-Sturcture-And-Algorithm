@@ -17,3 +17,13 @@ public class Largestelement {
         System.out.println("Largest number is : " + getLargest(numbers));
     }
 }
+
+// Alternative Answer 
+// class Compute {
+    
+//     public int largest(int arr[], int n)
+//     {
+//         Arrays.sort(arr);
+//         return arr[n-1];
+//     }
+// }

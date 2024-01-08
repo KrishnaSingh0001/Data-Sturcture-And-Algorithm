@@ -10,7 +10,7 @@ public class BinarySearchkeyin {
             if(numbers[mid] == key){
                 return mid;
             }
-            if(numbers[mid] < key){
+            else if(numbers[mid] < key){
                 start = mid +1;
 
             }
