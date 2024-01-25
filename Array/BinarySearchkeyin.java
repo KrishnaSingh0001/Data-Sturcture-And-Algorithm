@@ -7,7 +7,7 @@ public class BinarySearchkeyin {
         while(start<=end){
             int mid = (start + end)/2;
 
-            if(numbers[mid] == key){
+            if(numbers[mid]== key){
                 return mid;
             }
             else if(numbers[mid] < key){
