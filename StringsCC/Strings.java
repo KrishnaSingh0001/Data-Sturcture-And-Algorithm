@@ -14,5 +14,4 @@ public class Strings {
         name = sc.nextLine(); // it takes all words in a Sentence 
         System.out.println(name);
     }
-    
 }
