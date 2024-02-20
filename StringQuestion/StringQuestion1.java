@@ -1,6 +1,5 @@
 // Question 1. Count how many times lower case vowels 
 //              occureds in a String entered by the users .
-
 package StringQuestion;
 import java.util.*;
 public class StringQuestion1 {
