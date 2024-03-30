@@ -1,3 +1,4 @@
+package Array;
 public class PracticeQuestion1 {
     class Solution {
         public int removeDuplicates(int[] nums) {
